@@ -1,0 +1,31 @@
+service_id,service_name,category,unit,unit_price_inr,tax_rate_percent,status,description
+SVC-001,Logo Design (Basic),Design,package,7500,5,active,"Single concept, 2 revisions"
+SVC-002,Logo Design (Premium),Design,package,18000,5,active,"3 concepts, unlimited revisions"
+SVC-003,Business Card Design,Design,package,2500,5,active,"Double-sided, print-ready"
+SVC-004,Brand Style Guide,Design,package,15000,5,active,"Colors, typography, usage rules"
+SVC-005,Static Website (up to 5 pages),Web Development,package,35000,18,active,"Responsive, no backend"
+SVC-006,Dynamic Website (CMS),Web Development,package,75000,18,active,"WordPress/CMS based, admin panel"
+SVC-007,E-commerce Website,Web Development,package,125000,18,active,"Up to 100 products, payment gateway"
+SVC-008,Web Application (Custom),Web Development,project,250000,18,active,"Quoted per scope, base price shown"
+SVC-009,Landing Page,Web Development,page,8000,18,active,"Single page, conversion focused"
+SVC-010,Website Maintenance (Monthly),Web Development,month,4500,18,active,"Updates, backups, uptime monitoring"
+SVC-011,SEO Audit,Digital Marketing,report,6000,18,active,Technical + content audit report
+SVC-012,SEO Management (Monthly),Digital Marketing,month,15000,18,active,"On-page + off-page, monthly reporting"
+SVC-013,Social Media Management (Monthly),Digital Marketing,month,20000,18,active,"3 platforms, 12 posts/month"
+SVC-014,Google Ads Campaign Setup,Digital Marketing,project,10000,18,active,Excludes ad spend
+SVC-015,Content Writing (per article),Content,unit,1800,18,active,"Up to 1000 words, SEO optimized"
+SVC-016,Product Photography (per product),Photography,unit,900,18,active,"Studio shoot, 5 edited images"
+SVC-017,Explainer Video (60 sec),Video Production,project,45000,18,active,"Script, voiceover, animation"
+SVC-018,Mobile App - Android (Basic),App Development,project,180000,18,active,Up to 8 screens
+SVC-019,Mobile App - iOS (Basic),App Development,project,200000,18,active,Up to 8 screens
+SVC-020,Cross-Platform App (React Native),App Development,project,280000,18,active,"iOS + Android, up to 10 screens"
+SVC-021,UI/UX Design (per screen),Design,unit,2200,5,active,Figma source file included
+SVC-022,Cloud Hosting Setup (AWS/GCP),DevOps,project,12000,18,active,"One-time setup, excludes hosting cost"
+SVC-023,Database Design & Setup,Development,project,20000,18,active,"Schema design, up to 15 tables"
+SVC-024,API Integration (3rd party),Development,unit,8000,18,active,Per API integrated
+SVC-025,Consulting (Hourly),Consulting,hour,2500,18,active,Technical/strategy consulting
+SVC-026,Domain Registration (1 year),Infrastructure,unit,1200,18,active,₹.com/.in domains
+SVC-027,SSL Certificate (1 year),Infrastructure,unit,1500,18,active,Standard SSL
+SVC-028,Email Marketing Setup,Digital Marketing,project,9000,18,active,Template design + automation setup
+SVC-029,QA & Testing (per sprint),Development,unit,15000,18,active,Functional + regression testing
+SVC-030,"Training Session (per session, 2 hrs)",Consulting,unit,5000,18,active,Onsite/remote software training
